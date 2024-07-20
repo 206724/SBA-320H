@@ -41,7 +41,7 @@ This simple React component allows you to fetch and display weather information 
    ```jsx
    import React from 'react';
    import Weather from './Weather';
-   import './App.css'; // Example CSS import
+   import './Weather.css'; // Example CSS import
    ```
 
 2. Use the `Weather` component in your JSX markup:
