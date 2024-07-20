@@ -63,7 +63,7 @@ This simple React component allows you to fetch and display weather information 
 
 4. Run your React application:
    ```
-   npm start
+   npm run dev
    ```
 
 
