@@ -76,4 +76,3 @@ This simple React component allows you to fetch and display weather information 
 
 ---
 
-Adjust the paths, names, and instructions based on your specific project setup and preferences. This README should provide users with clear instructions on how to set up, use, and customize your React Weather component.
